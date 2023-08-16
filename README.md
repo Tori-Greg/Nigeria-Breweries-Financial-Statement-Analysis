@@ -8,7 +8,7 @@ To alleviate the tedious and monotonous nature of examining financial statements
 The data was obtained from the NGX website and imported as a PDF file. Subsequently, data transformation and cleansing were performed using the power query editor.
 
 ## Visuals and Analysis
-![](Finalsnapshot.JPG)
+![](Newsnapshot.JPG)
 
 _Click [here](https://app.powerbi.com/links/jn_csMtqAc?ctid=f2c35211-7dad-42d6-b895-25d82fc1f0a2&pbi_source=linkShare) for dashboard interaction_
 
